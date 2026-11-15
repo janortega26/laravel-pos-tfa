@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "jullieann/laravel-pos-tfa5",
+    "name": "janortega/laravel-pos-tfa5",
     "type": "project",
     "description": "TFA5 Laravel POS Foundations - four pages using static arrays.",
     "keywords": [
